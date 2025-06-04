@@ -1,0 +1,9 @@
+{
+	"name": "factorydemovmr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0110ef13-63d2-4c02-ab40-ade35bfc7341",
+		"tenantId": "3f37f924-b930-4604-9d5a-95bdbba0f93a"
+	}
+}
